@@ -24,12 +24,10 @@ Strawberries are best grown from rootstock rather than seed. Vegetative growth (
 - **Harvesting:** Multiple harvests are common through pruning
 - **Yield:** 1.2-1.8 oz/Foot of Tower/Turn
 - **Pests and diseases:** Pests and diseases of strawberries include arachnids like spider mites, pythium, rhizoctonia, and other fungal pathogens
-
-  - **Root Stock 1st Harvest:** 7-10 Weeks
-  - **2nd Harvest:** 1 Week
-  - **3rd Harvest:** 1 Week
-
 - **pH range:** 5.5-6.5
 - **EC/PPM:** 0.8-1.4/400-700
 - **Light hours:** 14-18
 - **Temperature:** Range: 65–75°F Ideal: 70°F
+- **Root Stock 1st Harvest:** 7-10 Weeks
+- **2nd Harvest:** 1 Week
+- **3rd Harvest:** 1 Week

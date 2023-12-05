@@ -8,9 +8,9 @@ Hydroponics, an avant-garde soil-less cultivation technique, has evolved into a 
 
 ## Crop Types
 
-1. [**Greens**](Greens.md)
-2. **Herbs**
-3. **Fruiting Crops**
+1. ### [**Greens**](Greens.md)
+2. ### [**Herbs**](Herbs.md)
+3. ### [**Fruiting Crops**](Fruiting.md)
 
 ## Rigorous Information Framework for Each Crop
 

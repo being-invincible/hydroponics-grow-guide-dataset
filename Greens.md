@@ -1,6 +1,7 @@
 # Greens
 
-**Introduction:**
+## Introduction:
+
 The leafy greens we know from our supermarket visits are limited in their variety, flavor, and overall excitement. Luckily, there’s a whole world of crops that fall in this broad category that re-excite both the eyes and the palate. By sourcing heirloom seeds you can expand what you know and challenge what you thought was possible with the most mundane of crops. Even if you decide to stick to highly traditional crops, growing and eating them fresh will be sure to change your perceptions of how that crop should taste.
 The crops that fall into this category are typically very easy to grow and are much lower maintenance than some varieties of herbs making them great for beginners or producers who want less time growing and more time enjoying the fruits of their labors.
 For commercial growers, greens are considered low-dollar crops, fetching $3.50-$5.00 per pound of produce. Though they bring in less monetarily per pound than most herbs, greens can be a benefit to farmers because they satisfy a specific and consistent need in most communities. Greens can also be a liability-reducer for farmers. Knowing that it will only take four to six weeks (a typical turn for greens) to return to full production is peace of mind for those just getting started should issues arise causing an operation to shut down for maintenance or management.

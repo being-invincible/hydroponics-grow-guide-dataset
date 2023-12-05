@@ -16,8 +16,6 @@ Growers can order strawberries from most big seed companies like Burpee’s or J
 
 Strawberries are best grown from rootstock rather than seed. Vegetative growth (runners) tends to be much faster than sexual reproduction (seeds), so you can cut the time from planting to production by months or years by using rootstock. Strawberries are prone to pest and diseases. Use miticides to manage mites, and a fungicidal dunk before planting to prevent fungal infections.
 
-**Remember: pesticides can be a useful tool for growing long grow-cycle crops, like fruiting crops. Should you choose to use chemical pesticides ALWAYS read the label before using your chosen pesticide. It is a legal document, straying from instructions is unlawful for commercial producers!
-
 ### Growing Strawberries
 
 - **Planting:** Germinating from seed is very difficult, propagation from clone is fastest and easiest

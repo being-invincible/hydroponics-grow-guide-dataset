@@ -1,6 +1,6 @@
 # Herbs
 
-## What You Should Know
+## Introduction
 
 Herbs are some of our favorite crops to grow due to the outstanding flavor and aromas they pack into their typically small form factors. While these crops typically take longer to reach maturity, they will be sure to turn heads, whether you’re growing them for your friends and family or as a commercial producer. Much like everything else grown locally and with purpose, the qualities these herbs will possess are sure to blow away all preconceived notions of what they have to offer.
 

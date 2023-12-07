@@ -81,3 +81,5 @@ Often the most overlooked aspect of sustainability. Most sustainable discussions
 Even though hydroponics is currently one of the most sustainable ways to grow food, there are some drawbacks. Some experts describe a watery, artificial taste with some of the vegetables and herbs are grown hydroponically. The range of vegetables that can be grown hydroponically is fairly limited, but experimentation has this list growing regularly.
 So, currently, hydroponics is sustainable, considered by some to be organic, but not necessarily energy-efficient, and depending on the type of system and how it is run it may not even be eco or Earth-friendly. Yikes! Many hydroponic farms are sprouting up locally in abandoned warehouses and unused retail spaces in cities across the country. Local restaurants have even gone as far as to purchase complete turn-key hydroponic systems built inside a shipping container that they have delivered to reside right outside their back door. tall about farm to plate! This reuse of valuable real estate close to the produce retail destination is incredibly sustainable.
 
+## Source 
+1. https://growwithoutsoil.com/hydroponics-sustainability/

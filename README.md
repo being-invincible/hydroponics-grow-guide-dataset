@@ -29,3 +29,6 @@ For every crop under consideration, we present a rigorously structured dataset e
 5. **Germination and Transplantation Timelines:** Navigate the intricacies of germination and transplant procedures for each crop, facilitating meticulous planning and seamless integration into hydroponic systems.
 
 6. **Harvesting Sequences:** Explore the nuanced timing and methodologies for initial and subsequent harvests, optimizing crop production and establishing a continuous supply of premium produce.
+
+## Source -
+1. https://www.zipgrow.com
